@@ -1,8 +1,8 @@
 /*
  * @Date: 2024-01-03 17:52:42
  * @LastEditors: chaunceyxie chaunceyxcx@gmail.com
- * @LastEditTime: 2024-01-04 18:04:21
- * @FilePath: \go-hello-world\echo\echo.go
+ * @LastEditTime: 2024-01-08 14:02:10
+ * @FilePath: \go_learn\入门\echo.go
  */
 package main
 
