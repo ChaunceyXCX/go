@@ -1,3 +1,3 @@
-module github.com/ChaunceyXCX/go_learn
+module go_learn
 
 go 1.21.5

@@ -1,7 +1,7 @@
 /*
  * @Date: 2024-01-08 15:32:50
  * @LastEditors: chaunceyxie chaunceyxcx@gmail.com
- * @LastEditTime: 2024-01-08 16:24:37
+ * @LastEditTime: 2024-01-09 10:36:28
  * @FilePath: \go_learn\入门\fetch_channel.go
  * @Description:
  */
@@ -17,7 +17,7 @@ import (
 
 func main() {
 	start := time.Now()
-	// 创建一个字符串通道用来
+	// 创建一个字符串通道用来接收线程返回数据
 	ch := make(chan string)
 	for _, url := range os.Args[1:] {
 		// go function : 开启一个goroutine
