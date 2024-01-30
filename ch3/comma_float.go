@@ -1,7 +1,7 @@
 /*
  * @Date: 2024-01-22 16:30:36
  * @LastEditors: chaunceyxie chaunceyxcx@gmail.com
- * @LastEditTime: 2024-01-22 17:07:30
+ * @LastEditTime: 2024-01-30 16:07:43
  * @FilePath: \go_learn\ch3\comma_float.go
  * @Description:
  */
@@ -20,5 +20,5 @@ func Comma_float(s string) string {
 
 func commaAfter(s string) string{
 
-	return s[]
+	return ""
 }
