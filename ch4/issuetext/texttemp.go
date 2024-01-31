@@ -1,7 +1,7 @@
 /*
  * @Date: 2024-01-30 16:55:45
  * @LastEditors: chaunceyxie chaunceyxcx@gmail.com
- * @LastEditTime: 2024-01-30 18:03:46
+ * @LastEditTime: 2024-01-31 17:06:55
  * @FilePath: \go_learn\ch4\issuetext\texttemp.go
  * @Description:
  */
@@ -9,7 +9,7 @@ package main
 
 import (
 	"go_learn/ch4/github"
-	"html/template"
+	"text/template"
 	"log"
 	"os"
 	"time"
