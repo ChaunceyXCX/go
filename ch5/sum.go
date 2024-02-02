@@ -33,7 +33,7 @@ func maxMin(vals ...int) (int, int, error) {
 	return max, min, nil
 }
 
-func main() {
-	fmt.Println(sum())
-	fmt.Println(maxMin(6,5,4,7,8,9))
-}
+// func main() {
+// 	fmt.Println(sum())
+// 	fmt.Println(maxMin(6,5,4,7,8,9))
+// }
