@@ -7,7 +7,8 @@
  */
 package main
 
+import "go_learn/note"
 
 func main() {
-		
+	note.VariableAndConstant()
 }
